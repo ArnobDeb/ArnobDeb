@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Developing
 - 🌱 I’m currently learning Dynamic Programming and C#
 - 💞️ I’m looking to collaborate on various projects related to Game Designing and Software Development
-- 📫 Reach me @ arnobdeb525.hitece2020@gmail.com 
+- 📫 Reach me @ arnobhawk145@gmail.com 
 
 <!---
 ArnobDeb/ArnobDeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
