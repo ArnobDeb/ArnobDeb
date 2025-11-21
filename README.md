@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArnobDeb
 - 👀 I’m interested in Game Developing
-- 🌱 I’m currently learning Dynamic Programming and C#
+- 🌱 I’m currently learning Dynamic Programming and C++
 - 💞️ I’m looking to collaborate on various projects related to Game Designing and Software Development
 - 📫 Reach me @ arnobhawk145@gmail.com 
 
